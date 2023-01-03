@@ -18,7 +18,23 @@ Microsoft Excel, spreadsheet application launched in 1985 by the Microsoft Corpo
 Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be input by reading directly from a database, webpage, or structured files such as spreadsheets, CSV, XML, and JSON.
 ![image](https://user-images.githubusercontent.com/112707550/210397498-dc1cb654-c48f-4885-bd5c-8feb5a726d90.png)
 
-##### Working of PowerBi
+##### Power BI – Tools and Functionalities
+__1.Import/Export .csv files__
+![ImportingDataset](https://user-images.githubusercontent.com/112707550/210413136-41fa6c60-6df5-492b-94c6-abf8b9141279.png)
+__2.Views in Power BI__
+There are 3 different types of views in Power BI. You can switch between the 3 views using Navigation Pane.
+
+![PowerBIViews](https://user-images.githubusercontent.com/112707550/210413341-7f59b679-b8a9-4279-9153-1be376cc112f.png)
+__*Report View*__
+ is a section of Power-BI where you can create any number of report pages with visualizations.
+This view provides a designing environment where you can move visualizations around, copy and paste, merge, and so on.
+__*Data view*__ is a section of Power-BI that helps you inspect, explore, and understand data.
+It’s different from how you view tables, columns, and data in Power Query Editor.
+__*Relationship View (Model View)__*
+shows all of the tables, columns, and relationships in your model.
+This view can be especially helpful when your model has complex relationships between many tables.
+#####3.Various tools and Pannel
+![AllTools](https://user-images.githubusercontent.com/112707550/210414499-fcfb86cd-b831-4478-ab1b-4711a4ce5a0b.png)
 
 
 #### *3.Microsoft Word*
