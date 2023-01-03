@@ -44,3 +44,33 @@ Microsoft word is a word processor software developed by Microsoft in 1983. It i
 #### *4.Microsft PowerPoint*
 Microsoft PowerPoint is great presentation software designed by Microsoft sometimes abbreviated as PP or PPT. PowerPoint is well utilized to create a slideshow of valuable information through charts, and images for a presentation. It is commonly practiced in business and school presentations
 ![image](https://user-images.githubusercontent.com/112707550/210398600-fd5c3c47-2b36-4296-ba6a-3339328472a1.png)
+
+
+## Practical Task I Completed During a VirtualCase Experience
+### 1.Call Centre Trend
+![image](https://user-images.githubusercontent.com/112707550/210416097-3230a038-4b33-4fab-9b04-2e251ef59953.png)
+for more information please visit my repository In details
+### 2.Customer Retention
+ #### I.)Insights From Dataset
+ ![image](https://user-images.githubusercontent.com/112707550/210416771-ceaed6bf-9982-4472-8dd6-dd73abf6b38f.png)
+ #### II.)Customer analysis Reports and dashboards
+ ![image](https://user-images.githubusercontent.com/112707550/210417190-8658a139-ea5b-4a01-97e6-4955dfe664c3.png)
+ #### III.) Customer Risk Analysis
+ ![image](https://user-images.githubusercontent.com/112707550/210417428-846a110c-341b-41f2-bacc-c8a13f29b191.png)
+ ##### For more information please Visit My Repossitery in detail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
